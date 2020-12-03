@@ -36,6 +36,7 @@
 # .idea/modules
 # *.iml
 # *.ipr
+**.ser
 
 # CMake
 cmake-build-*/
@@ -164,3 +165,7 @@ local.properties
 /Exe/Ex0/
 
 *.kotlin_module
+
+*.iml
+
+*.json
